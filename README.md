@@ -2,7 +2,7 @@
 
 **AI workers for your crypto office**
 
-factorAI is an interactive 3D crypto workspace where autonomous AI workers help you operate, research, trade, and build — all in one place.
+factorAI is an interactive 3D crypto workspace where autonomous AI workers help you operate, research, trade, and build, all in one place.
 
 Instead of switching between tools, dashboards, and tabs, factorAI brings everything into a single environment where you can delegate tasks and stay focused on execution.
 
