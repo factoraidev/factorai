@@ -1,3 +1,6 @@
+<img width="1500" height="500" alt="image" src="https://github.com/user-attachments/assets/7f1e8144-9bbd-4c99-8a1a-f6129c35ac93" />
+
+
 # 🚀 factorAI
 
 **AI workers for your crypto office**
