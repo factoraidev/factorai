@@ -38,21 +38,21 @@ Instead of using tools separately, you **click a worker and execute**.
 
 ## 👥 The Workers
 
-### 🟦 Scoop — Crypto News
+### 🟦 Scoop Crypto News
 - Fetches real-time crypto news via `/api/ethan-news`
 - AI summaries of relevant headlines
 - Curated information, no noise
 
 ---
 
-### 🟨 Buzz — Social Content
+### 🟨 Buzz Social Content
 - Generates tweet ideas via `/api/liam-tweets`
 - Market-aware, non-generic content
 - Tracks used ideas to avoid repetition
 
 ---
 
-### 🟩 Forge — Token Launcher (Core Feature)
+### 🟩 Forge Token Launcher (Core Feature)
 - Connects to **MetaMask (BNB Chain)**
 - Authenticates with **four.meme**
 - Launches tokens fully on-chain
@@ -66,7 +66,7 @@ Also supports **agent task mode** via `/api/olivia-agent`
 
 ---
 
-### 🟥 Sage — Skill Explorer
+### 🟥 Sage Skill Explorer
 - Discover Web3 AI tools and workflows
 - Categorized skill system (DeFi, AI, Trading, etc.)
 - AI chat to recommend build stacks
